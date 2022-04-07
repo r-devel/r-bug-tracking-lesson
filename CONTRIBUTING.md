@@ -127,8 +127,8 @@ which everyone is welcome to join.
 
 ## Acknowledgements
 
-This contributing guide was adpated from the CONTRIBUTING.md file of 
-[The Carpentries Workbench][carpentries-workbench] template, which is 
+This contributing guide was adapted from the CONTRIBUTING.md file of 
+[The Carpentries Workbench][workbench] template, which is 
 Copyright © [Software Carpentry][swc-site] 
 under a [CC BY 4.0][cc-by-human] license. 
 
@@ -144,4 +144,5 @@ under a [CC BY 4.0][cc-by-human] license.
 [slack]: https://contributor.r-project.org/slack
 [swc-site]: http://software-carpentry.org/
 [twitter]: https://twitter.com/R_Contributors
+[workbench]: https://carpentries.github.io/sandpaper-docs/
 
