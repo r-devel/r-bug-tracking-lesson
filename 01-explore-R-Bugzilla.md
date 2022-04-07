@@ -19,28 +19,14 @@ exercises: 15
 
 ## Introduction
 
-This is a lesson created via The Carpentries Workbench. It is written in
-[Pandoc-flavored Markdown][pandoc] for static files and
-[R Markdown][r-markdown] for dynamic files that can render code into output. 
-Please refer to the [Introduction to The Carpentries 
-Workbench][carpentries-workbench] for full documentation.
-
-There are three sections in this lesson:
-
- 1. `questions`: displayed at the beginning of this episode to prime the
-    learner for the content.
- 2. `objectives`: the learning objectives for this episode displayed with
-    the questions.
- 3. `keypoints`: displayed at the end of this episode to reinforce the
-    objectives.
-    
-
-The remainder of this lesson is divided into various challenges that you can try. Please refer to the [Bugzilla](https://bugs.r-project.org/) webpage for all the challenges below.
+This lesson is divided into various challenges that you can try. Please refer to the [Bugzilla](https://bugs.r-project.org/) webpage for all the challenges below.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
-Inline instructor notes can help inform instructors of timing challenges
-associated with the lessons. They appear in the "Instructor View"
+<!--Inline instructor notes can help inform instructors of timing challenges
+associated with the lessons. They appear in the "Instructor View"-->
+
+Under construction!
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -147,12 +133,7 @@ You can add a line with at least three colons and a `solution` tag.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--Or you can use standard markdown for static figures with the following syntax:
-
-`![optional caption that appears below the figure](figure url){alt='alt text for
-accessibility purposes'}`
-
-![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}-->
+<!--![You belong in The Carpentries!](https://raw.githubusercontent.com/carpentries/logo/master/Badge_Carpentries.svg){alt='Blue Carpentries hex person logo with no text.'}-->
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
