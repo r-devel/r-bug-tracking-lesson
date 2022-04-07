@@ -1,5 +1,7 @@
 # The Carpentries Workbench Template R Markdown Lesson
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-1.2-0baaaa.svg)](code_of_conduct.md)
+
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
 
 To get started using this template, visit https://github.com/carpentries/workbench-template-rmd/generate
