@@ -60,6 +60,7 @@ contact: team@carpentries.org
 episodes:
 - 01-introduction.Rmd
 - 02-explore-R-Bugzilla.Rmd
+- 03-search-bugs-on-Bugzilla.Rmd
 
 # Information for Learners
 learners:
