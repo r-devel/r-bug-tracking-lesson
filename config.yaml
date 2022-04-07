@@ -35,20 +35,20 @@ branch: main
 contact: team@carpentries.org
 
 # Navigation ------------------------------------------------
-# 
+#
 # Use the following menu items to specify the order of
 # individual pages in each dropdown section. Leave blank to
 # include all pages in the folder.
 #
 # Example -------------
-# 
+#
 # episodes:
 # - introduction.md
 # - first-steps.md
-# 
+#
 # learners:
 # - setup.md
-# 
+#
 # instructors:
 # - instructor-notes.md
 #
@@ -56,15 +56,19 @@ contact: team@carpentries.org
 # - one-learner.md
 # - another-learner.md
 
-# Order of episodes in your lesson 
-episodes: 
+# Order of episodes in your lesson
+episodes:
+- 01-introduction.Rmd
+- 02-explore-R-Bugzilla.Rmd
+- 03-search-bugs-on-Bugzilla.Rmd
+- 04-browsing-bugs-on-Bugzilla.Rmd
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
