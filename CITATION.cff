@@ -1,0 +1,29 @@
+abstract: "A lesson on R's bug-tracking process"
+authors:
+  - family-names: Turner
+    given-names: Heather
+    email: "heather@r-project.org"
+    orcid: "https://orcid.org/0000-0002-1256-3375"
+contact:
+  - family-names: Turner
+    given-names: Heather
+    email: "heather@r-project.org"
+    orcid: "https://orcid.org/0000-0002-1256-3375"
+cff-version: 1.2.0
+keywords:
+  - "open source software"
+  - sustainability
+license: CC BY 4.0
+license-url: https://creativecommons.org/licenses/by/4.0/
+message: "If you wish to cite this lesson, please use these metadata."
+references:
+  - authors:
+      - family-names: Kamvar
+        given-names: Zhian N.
+    repository-code: "https://github.com/carpentries/workbench-template-rmd"
+    title: The Carpentries Workbench Template R Markdown Lesson
+    type: software
+repository-code: "https://github.com/citation-file-format/my-research-software"
+title: "A lesson on R's bug-tracking process"
+type: software
+url: https://contributor.r-project.org/r-bug-tracking-lesson/
