@@ -1,18 +1,30 @@
-# The Carpentries Workbench Template R Markdown Lesson
+# Lesson on R's Bug Tracking Process
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-1.2-0baaaa.svg)](code_of_conduct.md)
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
+This lesson introduces the bug tracking process used by [the R project][r].
+It is intended for people that are completely new to this topic, 
+to help them understand ways in which they can contribute. 
+Although it is aimed at R users, it may be of interest to potential contributors to other software projects that use [Bugzilla][bugzilla].
 
-To get started using this template, visit https://github.com/carpentries/workbench-template-rmd/generate
-and follow the instructions.
+The lesson was originally delivered as two [Collaboration Campfire][campfire] sessions.
+We hope that this material will be helpful for people that would like to 
+run a similar session in future, or potential contributors that would like to
+go through the material themselves.
 
-If you have any questions, contact [@zkamvar](https://github.com/zkamvar)
+## Acknowledgements
 
-[workbench]: https://carpentries.github.io/sandpaper-docs/
+This lesson uses the website [template][template] from [The Carpentries Workbench][workbench], which is 
+Copyright © [Software Carpentry][swc-site] 
+under a [CC BY 4.0][cc-by-human] license. We have made changes to reflect that this is a R Contribution Working Group project, rather than a Carpentries project.
+
+The Collaboration Campfires were organized as part of the project [Building Community around the R Development Guide](https://incubator.codeforscience.org/cohort), lead by Saranjeet Kaur and Heather Turner, which was supported by the Digital Infrastructure Incubator at [Code for Science & Society (CS&S)](https://codeforscience.org/). The project benefited from the input of community champions from groups such as R-Ladies and members of the R Contribution Working Group.
+
+The first draft of this lesson was developed on the Hack Day as part of 
+[Collaborations Workshop 2022](https://software.ac.uk/cw22). 
 
 ## Contributors ✨
 
@@ -35,3 +47,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+[campfire]: https://contributor.r-project.org/events/collaboration-campfires
+[bugzilla]: https://www.bugzilla.org/
+[r]: https://www.r-project.org/
+[template]: https://github.com/carpentries/workbench-template-rmd
+[workbench]: https://carpentries.github.io/sandpaper-docs/
+[workbench]: https://carpentries.github.io/sandpaper-docs/
