@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/01-explore-R-Bugzilla.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/01-introduction.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/02-explore-R-Bugzilla.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/02-search-bugs-on-Bugzilla.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/03-browsing-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/03-search-bugs-on-Bugzilla.html</loc>
@@ -22,10 +31,19 @@
     <loc>https://carpentries.github.io/workbench-template-rmd/index.html</loc>
   </url>
   <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/01-explore-R-Bugzilla.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/01-introduction.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/02-explore-R-Bugzilla.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/02-search-bugs-on-Bugzilla.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/03-browsing-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
     <loc>https://carpentries.github.io/workbench-template-rmd/instructor/03-search-bugs-on-Bugzilla.html</loc>
