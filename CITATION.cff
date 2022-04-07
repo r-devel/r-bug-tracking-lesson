@@ -1,9 +1,15 @@
 abstract: "A lesson on R's bug-tracking process"
 authors:
+  - family-names: Kaur Bhogal
+    given-names: Saranjeet
   - family-names: Turner
     given-names: Heather
     email: "heather@r-project.org"
     orcid: "https://orcid.org/0000-0002-1256-3375"
+  - family-names: Rao
+    given-names: Achintya
+  - family-names: Goel
+    given-names: Aman
 contact:
   - family-names: Turner
     given-names: Heather
