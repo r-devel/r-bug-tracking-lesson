@@ -10,7 +10,7 @@
 carpentry: cp
 
 # Overall title for pages.
-title: Lesson Title
+title: "R’s bug tracking"
 
 # Date the lesson was created (this is empty by default)
 created: ~
@@ -58,10 +58,9 @@ contact: team@carpentries.org
 
 # Order of episodes in your lesson
 episodes:
-- 01-introduction.Rmd
-- 02-explore-R-Bugzilla.Rmd
-- 03-search-bugs-on-Bugzilla.Rmd
-- 04-browsing-bugs-on-Bugzilla.Rmd
+- 01-explore-R-Bugzilla.Rmd
+- 02-search-bugs-on-Bugzilla.Rmd
+- 03-browsing-bugs-on-Bugzilla.Rmd
 
 # Information for Learners
 learners:
