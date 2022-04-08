@@ -1,6 +1,6 @@
 # Lesson on R's Bug Tracking Process
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-1.2-0baaaa.svg)](code_of_conduct.md)
@@ -38,6 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/SaranjeetKaur"><img src="https://avatars.githubusercontent.com/u/28556616?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Saranjeet Kaur</b></sub></a><br /><a href="#content-SaranjeetKaur" title="Content">🖋</a></td>
     <td align="center"><a href="https://achintyarao.in"><img src="https://avatars.githubusercontent.com/u/7623019?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Achintya Rao</b></sub></a><br /><a href="https://github.com/r-devel/r-bug-tracking-lesson/pulls?q=is%3Apr+reviewed-by%3ARaoOfPhysics" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://www.heatherturner.net/"><img src="https://avatars.githubusercontent.com/u/3343008?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Heather Turner</b></sub></a><br /><a href="#content-hturner" title="Content">🖋</a> <a href="#projectManagement-hturner" title="Project Management">📆</a></td>
+    <td align="center"><a href="http://zkamvar.netlify.com"><img src="https://avatars.githubusercontent.com/u/3639446?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zhian N. Kamvar</b></sub></a><br /><a href="https://github.com/r-devel/r-bug-tracking-lesson/commits?author=zkamvar" title="Code">💻</a></td>
   </tr>
 </table>
 
