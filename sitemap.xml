@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/01-explore-R-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/01-explore-R-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/01-introduction.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/02-explore-R-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/02-explore-R-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/02-search-bugs-on-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/02-search-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/03-browsing-bugs-on-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/03-browsing-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/03-search-bugs-on-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/03-search-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/04-browsing-bugs-on-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/04-browsing-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/CODE_OF_CONDUCT.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/LICENSE.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/index.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/01-explore-R-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/01-explore-R-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/01-introduction.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/01-introduction.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/02-explore-R-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/02-explore-R-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/02-search-bugs-on-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/02-search-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/03-browsing-bugs-on-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/03-browsing-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/03-search-bugs-on-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/03-search-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/04-browsing-bugs-on-Bugzilla.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/04-browsing-bugs-on-Bugzilla.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/CODE_OF_CONDUCT.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/CODE_OF_CONDUCT.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/LICENSE.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/LICENSE.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/index.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/index.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/instructor-notes.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/key-points.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/key-points.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/keypoints.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/keypoints.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor/profiles.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor/profiles.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/instructor-notes.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/instructor-notes.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/key-points.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/key-points.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/keypoints.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/keypoints.html</loc>
   </url>
   <url>
-    <loc>https://carpentries.github.io/workbench-template-rmd/profiles.html</loc>
+    <loc>https://contributor.r-project.org/r-bug-tracking-lesson/profiles.html</loc>
   </url>
 </urlset>

@@ -13,7 +13,7 @@ carpentry: cp
 title: "R’s bug tracking"
 
 # Date the lesson was created (this is empty by default)
-created: ~
+created: 2022-04-07
 
 # Comma-separated list of keywords for the lesson
 keywords: software, data, lesson, The Carpentries
@@ -26,7 +26,10 @@ life_cycle: pre-alpha
 license: CC-BY 4.0
 
 # Link to the source repository for this lesson
-source: https://github.com/carpentries/workbench-template-rmd
+source: https://github.com/r-devel/r-bug-tracking-lesson
+
+# URL of the live lesson
+url: https://contributor.r-project.org/r-bug-tracking-lesson/
 
 # Default branch of your lesson
 branch: main
