@@ -231,7 +231,7 @@
       "Package": "tinytex",
       "Version": "0.38",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "CRAN",
       "Hash": "759d047596ac173433985deddf313450",
       "Requirements": [
         "xfun"
@@ -241,7 +241,7 @@
       "Package": "xfun",
       "Version": "0.30",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "CRAN",
       "Hash": "e83f48136b041845e50a6658feffb197",
       "Requirements": []
     },
