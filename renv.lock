@@ -1,6 +1,6 @@
 {
   "R": {
-    "Version": "4.2.0",
+    "Version": "4.2.1",
     "Repositories": [
       {
         "Name": "carpentries",
@@ -170,7 +170,7 @@
       "Package": "rlang",
       "Version": "1.0.2",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "CRAN",
       "Hash": "04884d9a75d778aca22c7154b8333ec9",
       "Requirements": []
     },
